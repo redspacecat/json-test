@@ -3,13 +3,3 @@
   "captial": "Lima",
   "coords": "123, 456, 789, 0",
 }
-{
-  "country": "Australia",
-  "captial": "Camberra",
-  "coords": "983, 999, 55, 100",
-}
-{
-  "country": "United States",
-  "captial": "Washington DC",
-  "coords": "80, 233, 92, 5",
-}
