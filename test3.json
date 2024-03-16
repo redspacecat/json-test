@@ -1,0 +1,34 @@
+{
+	"countries": [
+		{
+			"countryName": "United States",
+			"countryCapital": "Washington DC",
+			"countryCoords": [
+				123,
+				456,
+				789,
+				0
+			]
+		},
+		{
+			"countryName": "Mexico",
+			"countryCapital": "Mexico City",
+			"countryCoords": [
+				0,
+				987,
+				654,
+				321
+			]
+		},
+		{
+			"countryName": "France",
+			"countryCapital": "Paris",
+			"countryCoords": [
+				321,
+				654,
+				987,
+				0
+			]
+		}
+	]
+}
